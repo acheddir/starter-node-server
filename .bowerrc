@@ -1,0 +1,4 @@
+{
+  "directory": "src/lib",
+  "proxy": "http://172.23.232.10:8080"
+}
